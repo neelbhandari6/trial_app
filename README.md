@@ -1,6 +1,6 @@
 # trial_app
 
-A new Flutter project.
+This app contains the barebones implementation of our discussed UI Elements.
 
 ## Getting Started
 
