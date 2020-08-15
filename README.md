@@ -1,6 +1,9 @@
-# trial_app
+# Speech Analysis Application
+The Speech Analysis Application is an application through which individuals can assess the quality of a speech given based on pre-defined parameters such as filler words,gaps in speech etc.
 
-This app contains the barebones implementation of our discussed UI Elements.
+Phase 1 of this project invilves creating a native application that allows a user to manually assess speeches by selecting the required parameters through the course of the speech, and visualise the quality on the device.
+
+Phase 2 of this project will be using speech to text conversion models, and NLP techniques to automate the speech analysis tasks.
 
 ## Getting Started
 
